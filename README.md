@@ -69,8 +69,6 @@ Dev‑dependencies para compilação e bundling:
 - A arquitetura modular visa facilitar manutenção e testes.
 - Para produção, adapte o backend real substituindo o `json-server`.
 
-> 💡 **Dica**: edite `webpack.config.js` ou os estilos conforme necessário para expandir funcionalidades.
-
 ---
 
 **Autor:** João Miguel <br>
