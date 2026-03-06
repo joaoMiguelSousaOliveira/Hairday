@@ -73,6 +73,6 @@ Dev‑dependencies para compilação e bundling:
 
 ---
 
-**Autor:** João Miguel
-**Projeto:** Aplicação Web de agendamento para corte de cabelo
+**Autor:** João Miguel <br>
+**Projeto:** Aplicação Web de agendamento para barbearia<br>
 **Data:** 6 de março de 2026
